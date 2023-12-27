@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><gexf xmlns="http://www.gexf.net/1.1draft" version="1.1" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+<meta lastmodifieddate="2011-06-15"><creator>GraphMaker</creator><description>Jacomy Mathieu, Sciences Po Medialab and WebAtlas</description></meta>
+<graph defaultedgetype="undirected"  mode="static">
+<attributes class="node" mode="static">
+<attribute id="attr_type" title="Type" type="string"></attribute>
+<attribute id="global_occurrences" title="Occurrences Count" type="integer"></attribute>
+</attributes>
+<attributes class="edge" mode="static">
+<attribute id="attr_type" title="Type" type="string"></attribute>
+<attribute id="matchings_count" title="Matchings Count" type="integer"></attribute>
+</attributes>
+<nodes>
+<node id="openaccess_dded51a4c0c2cabbdc4d07c3db1beff3" label="all open access">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="732"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_cab7e764b30007514145eaf2f6a7ed0f" label="bronze">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="102"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_e07e81c20cf5935f5225765f0af81755" label="gold">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="560"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_9f27410725ab8cc8854a2769c7a516b8" label="green">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="596"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_70255c10ee2bb1af172425f70288b53f" label="hybrid gold">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="24"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_274b68192b056e268f128ff63bfcd4a4" label="n/a">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="1601"></attvalue>
+</attvalues>
+</node>
+</nodes>
+<edges>
+<edge source="openaccess_dded51a4c0c2cabbdc4d07c3db1beff3" target="openaccess_cab7e764b30007514145eaf2f6a7ed0f" >
+<attvalues>
+<attvalue for="matchings_count" value="57"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_dded51a4c0c2cabbdc4d07c3db1beff3" target="openaccess_e07e81c20cf5935f5225765f0af81755" >
+<attvalues>
+<attvalue for="matchings_count" value="95"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_dded51a4c0c2cabbdc4d07c3db1beff3" target="openaccess_9f27410725ab8cc8854a2769c7a516b8" >
+<attvalues>
+<attvalue for="matchings_count" value="141"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_dded51a4c0c2cabbdc4d07c3db1beff3" target="openaccess_70255c10ee2bb1af172425f70288b53f" >
+<attvalues>
+<attvalue for="matchings_count" value="18"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_dded51a4c0c2cabbdc4d07c3db1beff3" target="openaccess_274b68192b056e268f128ff63bfcd4a4" >
+<attvalues>
+<attvalue for="matchings_count" value="27"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_cab7e764b30007514145eaf2f6a7ed0f" target="openaccess_e07e81c20cf5935f5225765f0af81755" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_cab7e764b30007514145eaf2f6a7ed0f" target="openaccess_9f27410725ab8cc8854a2769c7a516b8" >
+<attvalues>
+<attvalue for="matchings_count" value="31"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_cab7e764b30007514145eaf2f6a7ed0f" target="openaccess_70255c10ee2bb1af172425f70288b53f" >
+<attvalues>
+<attvalue for="matchings_count" value="4"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_cab7e764b30007514145eaf2f6a7ed0f" target="openaccess_274b68192b056e268f128ff63bfcd4a4" >
+<attvalues>
+<attvalue for="matchings_count" value="12"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_e07e81c20cf5935f5225765f0af81755" target="openaccess_9f27410725ab8cc8854a2769c7a516b8" >
+<attvalues>
+<attvalue for="matchings_count" value="75"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_e07e81c20cf5935f5225765f0af81755" target="openaccess_70255c10ee2bb1af172425f70288b53f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_e07e81c20cf5935f5225765f0af81755" target="openaccess_274b68192b056e268f128ff63bfcd4a4" >
+<attvalues>
+<attvalue for="matchings_count" value="5"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_9f27410725ab8cc8854a2769c7a516b8" target="openaccess_70255c10ee2bb1af172425f70288b53f" >
+<attvalues>
+<attvalue for="matchings_count" value="15"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_9f27410725ab8cc8854a2769c7a516b8" target="openaccess_274b68192b056e268f128ff63bfcd4a4" >
+<attvalues>
+<attvalue for="matchings_count" value="21"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+<edge source="openaccess_70255c10ee2bb1af172425f70288b53f" target="openaccess_274b68192b056e268f128ff63bfcd4a4" >
+<attvalues>
+<attvalue for="matchings_count" value="5"></attvalue>
+<attvalue for="attr_type" value="Source title"></attvalue>
+</attvalues>
+</edge>
+</edges>
+</graph></gexf>

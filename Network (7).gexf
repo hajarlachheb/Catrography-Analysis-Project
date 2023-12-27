@@ -1,0 +1,2476 @@
+<?xml version="1.0" encoding="UTF-8"?><gexf xmlns="http://www.gexf.net/1.1draft" version="1.1" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+<meta lastmodifieddate="2011-06-15"><creator>GraphMaker</creator><description>Jacomy Mathieu, Sciences Po Medialab and WebAtlas</description></meta>
+<graph defaultedgetype="undirected"  mode="static">
+<attributes class="node" mode="static">
+<attribute id="attr_type" title="Type" type="string"></attribute>
+<attribute id="global_occurrences" title="Occurrences Count" type="integer"></attribute>
+</attributes>
+<attributes class="edge" mode="static">
+<attribute id="attr_type" title="Type" type="string"></attribute>
+<attribute id="matchings_count" title="Matchings Count" type="integer"></attribute>
+</attributes>
+<nodes>
+<node id="sourcetitle_ecdfe6e31fb26ae0a741021b5b7aaa63" label="acta dermatovenerologica alpina, pannonica et adriatica">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_3c1f6fcce752d01138fe7e06b39fc77b" label="actas urologicas espanolas">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_a1b34dd345dd59f8227a8b462efd97de" label="african health sciences">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_015388b2b235a92143e735ebb63ba8b6" label="african journal of emergency medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_fa49afdcc8fcca979815ff19fb856a0d" label="african journal of urology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="5"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_be74d44b7e6a19bf96da4de9cb5b8255" label="aids research and human retroviruses">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_8dc06f416c49a5ab84d5b6d07ca705e8" label="american journal of case reports">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_8004262538a189dea2d6b525b36453ec" label="american journal of emergency medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_8226a071bf921d9ace2e15e05c4dea87" label="american journal of human genetics">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_35393a1f71858f3865fde147eba6d66a" label="anaesthesia critical care and pain medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_7947892ad5b023d45763c6f4ed1a179b" label="anaesthesia, pain and intensive care">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_df3bf87d214b5dd6b07407fec172593d" label="anaesthesiology intensive therapy">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_879db86bbb5a3f07a3458b1e7b06da79" label="annales francaises de medecine d'urgence">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_fe8948917e524081796789842caf1d8a" label="annales medico-psychologiques">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_79a1bcde44059bed064e2399fd082597" label="annals of gastroenterology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_f68a5ba5b9b2f21e337bf0d21453b930" label="annals of medicine and surgery">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_0bda0ab3d52619c999fc306108e003af" label="annals of pediatric cardiology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_fd81c899e7aed3e378e82c6b44264fd9" label="annals of physical and rehabilitation medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_da04fd65e118e893cf59ae6eecfde842" label="annals of saudi medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_5eccbf0f18606970debc304ed300f217" label="annals of the rheumatic diseases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_59eb70c76bdaa54274d18528047f9835" label="annals of the royal college of surgeons of england">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_d2d0e9a6a6968f4bd1ac708cf7206edd" label="antimicrobial resistance and infection control">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_650007f8afeb3486579046f6adbe9fe0" label="arab journal of gastroenterology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_34084285019e54bd4f8031183e8a7449" label="arab journal of urology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_3b5d12455dfdbdf2a1b422f5ba9b6c54" label="archives of cardiovascular diseases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_8433efc3521c8d22cefa7464b4f92d9f" label="archives of osteoporosis">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_bac931213f4d5be5e98ff43a1b3fecbe" label="bmc anesthesiology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_f99b2bf0b239a2d7a3dd0ae82080c227" label="bmc cancer">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_8b59643d16b81d6951507526791ffc6d" label="bmc clinical pathology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="5"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_0a2d52ff164e19a533ed5be0053ac621" label="bmc emergency medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_85d22cbab3f128101ababcde74a7420f" label="bmc endocrine disorders">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ddccd5a2d558f1fa49fbae39df17c317" label="bmc hematology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_89287e5dfb593573b0a11ac2dd009fe7" label="bmc infectious diseases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_034f92fe0c610ed955a24d12be91e702" label="bmc musculoskeletal disorders">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_b351831e9b7dbd2b8a88da9f4cb973c9" label="bmc ophthalmology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_40bd859a62eeeb86252dd24d89d3f4cd" label="bmc public health">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_9685ca10664f2546c6dc54429e2d1497" label="bmc pulmonary medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_055968fa1e69fcb9546eb568a69850d5" label="bmc surgery">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_5a954de503b952fcdc87862efb747a62" label="bmc women's health">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_c7b98b7a6e6d47e11fdd15335f01c88a" label="bmj case reports">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_154c1383bcbb512eae196a3cd898fead" label="bmj open gastroenterology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_1db2f63ebea7e4f5cf11eed9eb4beb5b" label="breast cancer: targets and therapy">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_d6cb813951cd64cd4b1f0893235f66b9" label="bulletin du cancer">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_970af288b94d5e4c3dee4031d636b937" label="canadian journal of anesthesia">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="12"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_4f524d74318bf2c5a0d0a464ce48ece6" label="canadian journal of infectious diseases and medical microbiology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_0aadfc74fcf75e35abcf5c8e867c0d20" label="canadian journal of neurological sciences">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_bc50683f6a47d5e17406d4e0b395f9c1" label="canadian urological association journal">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_a3fde699e8e048d03c91b6fa55a43291" label="case reports in gastroenterology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_d7609a81dd847e8b8cd6016e05e9c852" label="case reports in oncology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ab756884ead5baf139948748b7de4651" label="circulation">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_b6e8b8034f1c20a6e357b317041c2401" label="clinical case reports">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_97a8ab9bf0413e04a38e332ffcfcfbc8" label="clinical cases in mineral and bone metabolism">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_2e2a3381c363283fd519760d858b66a7" label="clinical neuroradiology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_17bb50fa298cfffa2c1d9e634c5372ce" label="clinical rheumatology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_9448a5ef1559405a8ec3690f30df396b" label="clujul medical">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_7b42f970d3361234dbf0638cfb9cde4c" label="cor et vasa">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_e05ec1f98b6a96dbabda8e052bb9126d" label="critical care">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_c0fbf565f6004aba9ebdb2c2d68c2415" label="cytokine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_d88951f879e390f4c89f2130af786d82" label="dermatology research and practice">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_e2670e425dd2440076a1b52808222500" label="diagnostic and interventional imaging">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_2e6c8425fbb2b44bb2be4bf141d5f183" label="diagnostic and therapeutic endoscopy">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_9f76ff07d959d9e9ea3c9fc54e656bdd" label="disease markers">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_92165d11925616ec1c1cbbc19393ab82" label="douleurs">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_1db392d423e92f0c0d1badc76e37873c" label="eastern mediterranean health journal">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="4"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_d26ece954523fecfc84e096cae6b3cde" label="egyptian heart journal">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_3fdcf99d231555a1081ddfb8d4e0936b" label="egyptian journal of anaesthesia">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_206f69cb58e264ef7d653bda6831b401" label="egyptian rheumatologist">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_988ff21d4e62c05de73c030a83e2fbfa" label="ejves extra">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_f9a78dff08cde09356ef03adae66e95a" label="emerging infectious diseases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_cb272ad97777116b22fd01f42a9741f0" label="europace">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_09336e8670b905ec9673f906eb3072ea" label="european annals of otorhinolaryngology, head and neck diseases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="8"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_6613b79533bb501e7b915517d046908f" label="european journal of clinical microbiology and infectious diseases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_9d49d9adbfc2220b621bc13a474ea8d3" label="european journal of internal medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_9b2f5b97842077923441b64236f083d8" label="european spine journal">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_c6f0b9d0b65a3c4285b5c9c29698c245" label="frontiers in microbiology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_89b72497463c09077e71b54b950acdaa" label="frontiers in physiology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_f38b9794aff4283f2fafee3ddd32c9a8" label="germs">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_bc7ba11d8b5c45248ad900611795e376" label="hand surgery and rehabilitation">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_b7240f181e3e9adcf45f489c1441f155" label="head and face medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_0782048673d1e86cf34c0a04187d4632" label="hematology/ oncology and stem cell therapy">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="5"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_bc4e6037a4eb918b1cb6ab28729192b4" label="human genetics">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_3b74304cd735b09e0c07403711df2423" label="human molecular genetics">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_c1297458599c7f09fbd7a45fc9c18e84" label="hypertension">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_b1b51c2e93c181e6c51dbca55898644e" label="idcases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="7"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_24f3428b2b66bae05b583389fd7472cc" label="immunological reviews">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_940a16f4832e8b2c07298e6a062c8b65" label="indian journal of critical care medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_174ff834905898967bb62e1e06bb9c42" label="indian journal of nephrology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="9"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ac7a4c211a94db7c5ded9869f1842e24" label="indian journal of nuclear medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_53a8d58ec0a38f5454b3d89e549c86f4" label="indian journal of otolaryngology and head and neck surgery">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_9d1d75c1920fb8af6f0aa9a11f4ea019" label="influenza and other respiratory viruses">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_5f1950ce0f3bfe94e683ccb4ebde3d1e" label="interactive cardiovascular and thoracic surgery">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_2ca57d36fd223bdada82e8aff8c72afb" label="interdisciplinary perspectives on infectious diseases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_6aca9b49cfa80109f7b26e2f114fc773" label="internal medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="14"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ad605792ed5b03232964908df43c51cf" label="international archives of medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_b5f99d9a132a4140c407c275a174de11" label="international journal of emergency medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_3f7a6c39f51730c36273a73d5ef904f4" label="international journal of medical sciences">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_c6611287f7782f77902f4f6837ea9391" label="international journal of mycobacteriology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ee5807c150254b4a3c8175d495416a55" label="international journal of surgery case reports">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="7"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_3c595e9e85d15bd305fa7300c7b8e754" label="international journal of trichology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_d1a1566128a9750f39d3359835b93c82" label="international journal of tuberculosis and lung disease">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ab0fa67d00c1678c012bf259755fa8f8" label="journal of allergy and clinical immunology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_068ae1a49da1becaf7decee5dfc03ad1" label="journal of bone oncology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_063ad98b1425387796eef428c1cf6f08" label="journal of cardiothoracic surgery">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_675243fc56c26cb0685265257f1d1b88" label="journal of clinical anesthesia">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_845c7dae27408b4c1097893d67604705" label="journal of clinical gerontology and geriatrics">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_f1065f9f167e9c8ebd213df45ebe06f9" label="journal of clinical microbiology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_cbe0623751a7e73047171cb815059b52" label="journal of clinical neurology (korea)">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_2b8152e261a92e042f185f7ba27e126d" label="journal of craniovertebral junction and spine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_75e73efa61e7716dcefe15b8558ce964" label="journal of endocrinology and metabolism">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_b642df14dc221b165422f95b752b0d6c" label="journal of experimental medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_cb8b01d4f6144ded65eb5f1887de663d" label="journal of gastrointestinal cancer">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_7cea086d088b9312e6ee53c6bb787875" label="journal of global antimicrobial resistance">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_3a350a1492e4710045bece4c0f122aed" label="journal of hematology and oncology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_37200988da267c255a7d3c150a594a67" label="journal of human reproductive sciences">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_3357623aeea8bac9ec06424c6f5f5d19" label="journal of infection and public health">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_e0f11605b3a8545a3f68802d6612572d" label="journal of infection in developing countries">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_e93fcadb7ab2b48840fc30aabd97e85d" label="journal of infectious diseases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_a71ab9573ba679f16f83d31871ae9c0b" label="journal of medical case reports">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="25"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_2eef36798d065b9fe812b9966fcce315" label="journal of mycology and infection">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_da6f2dbf5f148a803d19723f4e5b2f54" label="journal of neurosciences in rural practice">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_53a73d7995567fc145947782d000eaa5" label="journal of neurosurgery: pediatrics">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ef34db3fe5d662376e9267d7314dcef9" label="journal of neurosurgery: spine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_496e8ea618cc8338dc1808dc16033764" label="journal of nuclear medicine technology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_78a45c7d04e556fcc8ce2ef74f60d6e3" label="journal of nutrition and metabolism">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_5e40abca4d3d1ebd3027e705caac5a6d" label="journal of nutritional science">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_935d9808d59880671508c5b2a517166f" label="journal of orthopaedic surgery">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_6a95ec93276a9c19389d5c7aaa649b17" label="journal of personalized medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_067b753cd763f2757509849b410b259b" label="journal of the canadian urological association">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_e8b0bd5227a147fb532c6f7a84ad8d43" label="journal of the chinese medical association">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_eeebe705d9bbabe0317c60cd22fa9722" label="journal of the saudi heart association">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="7"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_8f1058c20c6e6d559f8574ec26b3d54c" label="journal of thoracic and cardiovascular surgery">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ec071351ed40f3fc3f9d42c24e7692cf" label="journal of visceral surgery">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_c3ad24cb1e6cb8e7e6588fb90b685310" label="kardiochirurgia i torakochirurgia polska">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_aee68bb0f4807e28711a6dfe7be3eaec" label="korean journal of ophthalmology : kjo">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_0fefb9759451c3f0cd9aeb84fca32109" label="korean journal of thoracic and cardiovascular surgery">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_0f8a8a99a2a5398f12b227ef59bb9f5a" label="malaria journal">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_d9e5d212320e7d96e921831554be696d" label="medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_74f83ac95c5ec04781da28496298ce6b" label="medicine and pharmacy reports">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_e103bb2b8ac5e84a8ca12bd93ca10d64" label="molecular genetics and genomic medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_f56daaffcb2e25f49e5c2b9a1c9d7709" label="nephro-urology monthly">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_dc2076ebc1e74db81452054f24184902" label="neurologia">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_0581374a58c7d2c01dd5f983dbe716e7" label="neurologia i neurochirurgia polska">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_81267b28a5bb487b409ab1bb444423d4" label="north american journal of medical sciences">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_371f67623b9ea67adedd51d51471070e" label="nuclear medicine review">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_7490ec89bba50e7931d602b7457e5af8" label="nutrition and metabolism">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ba871f90e4d742422445d064cd0505e8" label="obstetrics and gynecology science">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_00d2e21d0f51785452f2c71069fd6def" label="oncotarget">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ea141856e0b665778f3b290f84932b37" label="open access rheumatology: research and reviews">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_d0d709c394beb1e97e390dac1aa9c925" label="orthopaedics and traumatology: surgery and research">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_be6bd9e833f18585bcd2b100619f35ed" label="osteoporosis international">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="4"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_826c25277b678db0d06b36db59ee52e0" label="oxford medical case reports">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_7e634d0ec21e89b9bb4a31639301bad8" label="pan african medical journal">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="316"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_98285211ba3c39491116cb8e63cd0aee" label="pathogens">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_f4def6a80fca0e9c08d38c1e569b80ed" label="pathologie biologie">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_2a33e8841bac132ef71503fbe032465d" label="physics in medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ad5828512f5c6470b76c6fd503a16af0" label="plos neglected tropical diseases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_cdb3993d2bbba5022f230b3a834210dc" label="public health nutrition">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_a0974e7c481ea8327da06e41d561912f" label="pulmonary medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_dd61676a1f9431f4cb294774d0dd6403" label="qjm">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_59238b4e1186ac8cf887b82fbece0c6f" label="qjm : monthly journal of the association of physicians">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_176d1370ffc8f0328c990729c8bb9a08" label="radiology case reports">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="10"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_67cb701dd02c03352feac57578484c0f" label="revista portuguesa de pneumologia">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="2"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_f8536fd7497902ea36840b9a4b275a24" label="rheumatology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_759a81e31b3016874b3b62514ac94798" label="rheumatology (united kingdom)">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_2b5b6dfa0c03f6b186b8b9f14409e0c2" label="romanian journal of neurology/ revista romana de neurologie">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_eae24411a3ee374e11c578d8e9beae1d" label="sang thrombose vaisseaux">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_d382347b265f2906015b9bcdeb5b3d49" label="saudi journal of anaesthesia">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="6"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_8866d4a31b900240059f417df4e41653" label="saudi journal of kidney diseases and transplantation : an official publication of the saudi center for organ transplantation, saudi arabia">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="11"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_6435e1113aae5198fd1ffd1e4e8f3be7" label="saudi journal of ophthalmology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_eb196fd74b4e42809eb0484c84efef63" label="scandinavian journal of trauma, resuscitation and emergency medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_5175e6d88ba424ed2ba660816f5ac9b2" label="science immunology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_304027d55d4cbcce4486954d2c947288" label="sexually transmitted infections">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_d385287509d79b5d5163df9097dcca39" label="spinal cord">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_08bf1dc52d26fb408ff0684357be2244" label="surgical neurology international">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="8"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_8c1a8dce5437756a3740e18dbc4b5d7f" label="the journal of infectious diseases">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_9d50dd65d1860ddddcca7f8aa713f39c" label="the lancet respiratory medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_b2f9a2c85b21cbc7d45753a7156b1b9e" label="the pan african medical journal">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="42"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_22bbe95a57dfe90078dea5af214c0b0a" label="theoretical biology and medical modelling">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_fc183a33afc5953f3adbe9d629a45b44" label="therapeutic advances in endocrinology and metabolism">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_47f752301fb6ff0e3037ad6c1217374b" label="trauma case reports">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="4"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_eadc47696aec450ff91030a1240a989c" label="turk onkoloji dergisi">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_40ad9609d240431ba7f0b9665d882a34" label="turk patoloji dergisi/turkish journal of pathology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_827e559026e08a91ae39281028bfc62e" label="turkish journal of endocrinology and metabolism">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_ff346f7a9f39f78cf755c31eb9b2c406" label="turkish journal of medical sciences">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_7cae0364cc1b15df35056488657cbee9" label="tzu chi medical journal">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_9f9d8304007afb7f4ca39db16cb0ec35" label="ulusal travma ve acil cerrahi dergisi">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_4e006d5abe17cc8298acd8cb4c12d902" label="urology case reports">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_6da791d3fb8c7c24de119436afa9395b" label="visceral medicine">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_6025614c1441f167037492a78cb8daeb" label="world journal of emergency surgery">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="sourcetitle_e2f8125feaf22536381cebcab8dc7202" label="world journal of surgical oncology">
+<attvalues>
+<attvalue for="attr_type" value="Source title"></attvalue>
+<attvalue for="global_occurrences" value="5"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_e754866d0e704bae66ef456a0e7b15e2" label="all open access, bronze">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="65"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_ab3514103464340178b2ad5e1e3623f5" label="all open access, bronze, green">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="37"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" label="all open access, gold">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="67"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_61d6f4976189912911c8b6c12ce33317" label="all open access, gold, green">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="493"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_b7ca474257e82700091821f451d8b86a" label="all open access, green">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="46"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_c315aa6fe8fcac931fcd6dbb5d2b346c" label="all open access, hybrid gold">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="4"></attvalue>
+</attvalues>
+</node>
+<node id="openaccess_47e1d5760f84fd772b059379b12e7cee" label="all open access, hybrid gold, green">
+<attvalues>
+<attvalue for="attr_type" value="Open Access"></attvalue>
+<attvalue for="global_occurrences" value="20"></attvalue>
+</attvalues>
+</node>
+</nodes>
+<edges>
+<edge source="sourcetitle_ecdfe6e31fb26ae0a741021b5b7aaa63" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_3c1f6fcce752d01138fe7e06b39fc77b" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_a1b34dd345dd59f8227a8b462efd97de" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_a1b34dd345dd59f8227a8b462efd97de" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_015388b2b235a92143e735ebb63ba8b6" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_fa49afdcc8fcca979815ff19fb856a0d" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="5"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_be74d44b7e6a19bf96da4de9cb5b8255" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_8dc06f416c49a5ab84d5b6d07ca705e8" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_8004262538a189dea2d6b525b36453ec" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_8226a071bf921d9ace2e15e05c4dea87" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_8226a071bf921d9ace2e15e05c4dea87" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_35393a1f71858f3865fde147eba6d66a" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_35393a1f71858f3865fde147eba6d66a" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_7947892ad5b023d45763c6f4ed1a179b" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_df3bf87d214b5dd6b07407fec172593d" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_879db86bbb5a3f07a3458b1e7b06da79" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_fe8948917e524081796789842caf1d8a" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_79a1bcde44059bed064e2399fd082597" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_f68a5ba5b9b2f21e337bf0d21453b930" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_0bda0ab3d52619c999fc306108e003af" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_fd81c899e7aed3e378e82c6b44264fd9" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_da04fd65e118e893cf59ae6eecfde842" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_5eccbf0f18606970debc304ed300f217" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_5eccbf0f18606970debc304ed300f217" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_59eb70c76bdaa54274d18528047f9835" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_d2d0e9a6a6968f4bd1ac708cf7206edd" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_650007f8afeb3486579046f6adbe9fe0" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_34084285019e54bd4f8031183e8a7449" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_3b5d12455dfdbdf2a1b422f5ba9b6c54" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_8433efc3521c8d22cefa7464b4f92d9f" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_bac931213f4d5be5e98ff43a1b3fecbe" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_f99b2bf0b239a2d7a3dd0ae82080c227" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_8b59643d16b81d6951507526791ffc6d" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="5"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_0a2d52ff164e19a533ed5be0053ac621" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_85d22cbab3f128101ababcde74a7420f" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ddccd5a2d558f1fa49fbae39df17c317" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_89287e5dfb593573b0a11ac2dd009fe7" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_034f92fe0c610ed955a24d12be91e702" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_b351831e9b7dbd2b8a88da9f4cb973c9" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_40bd859a62eeeb86252dd24d89d3f4cd" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_9685ca10664f2546c6dc54429e2d1497" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_055968fa1e69fcb9546eb568a69850d5" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_5a954de503b952fcdc87862efb747a62" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_c7b98b7a6e6d47e11fdd15335f01c88a" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_c7b98b7a6e6d47e11fdd15335f01c88a" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_154c1383bcbb512eae196a3cd898fead" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_1db2f63ebea7e4f5cf11eed9eb4beb5b" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_d6cb813951cd64cd4b1f0893235f66b9" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_970af288b94d5e4c3dee4031d636b937" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="11"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_970af288b94d5e4c3dee4031d636b937" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_4f524d74318bf2c5a0d0a464ce48ece6" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_0aadfc74fcf75e35abcf5c8e867c0d20" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_bc50683f6a47d5e17406d4e0b395f9c1" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_a3fde699e8e048d03c91b6fa55a43291" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_d7609a81dd847e8b8cd6016e05e9c852" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ab756884ead5baf139948748b7de4651" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_b6e8b8034f1c20a6e357b317041c2401" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_97a8ab9bf0413e04a38e332ffcfcfbc8" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_2e2a3381c363283fd519760d858b66a7" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_17bb50fa298cfffa2c1d9e634c5372ce" target="openaccess_c315aa6fe8fcac931fcd6dbb5d2b346c" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_17bb50fa298cfffa2c1d9e634c5372ce" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_9448a5ef1559405a8ec3690f30df396b" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_7b42f970d3361234dbf0638cfb9cde4c" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_e05ec1f98b6a96dbabda8e052bb9126d" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_c0fbf565f6004aba9ebdb2c2d68c2415" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_d88951f879e390f4c89f2130af786d82" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_e2670e425dd2440076a1b52808222500" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_2e6c8425fbb2b44bb2be4bf141d5f183" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_9f76ff07d959d9e9ea3c9fc54e656bdd" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_92165d11925616ec1c1cbbc19393ab82" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_1db392d423e92f0c0d1badc76e37873c" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_1db392d423e92f0c0d1badc76e37873c" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_d26ece954523fecfc84e096cae6b3cde" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_3fdcf99d231555a1081ddfb8d4e0936b" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_206f69cb58e264ef7d653bda6831b401" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_988ff21d4e62c05de73c030a83e2fbfa" target="openaccess_c315aa6fe8fcac931fcd6dbb5d2b346c" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_f9a78dff08cde09356ef03adae66e95a" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_cb272ad97777116b22fd01f42a9741f0" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_09336e8670b905ec9673f906eb3072ea" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="8"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_6613b79533bb501e7b915517d046908f" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_9d49d9adbfc2220b621bc13a474ea8d3" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_9b2f5b97842077923441b64236f083d8" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_c6f0b9d0b65a3c4285b5c9c29698c245" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_89b72497463c09077e71b54b950acdaa" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_f38b9794aff4283f2fafee3ddd32c9a8" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_bc7ba11d8b5c45248ad900611795e376" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_b7240f181e3e9adcf45f489c1441f155" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_0782048673d1e86cf34c0a04187d4632" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="5"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_bc4e6037a4eb918b1cb6ab28729192b4" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_3b74304cd735b09e0c07403711df2423" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_c1297458599c7f09fbd7a45fc9c18e84" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_b1b51c2e93c181e6c51dbca55898644e" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_b1b51c2e93c181e6c51dbca55898644e" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="6"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_24f3428b2b66bae05b583389fd7472cc" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_940a16f4832e8b2c07298e6a062c8b65" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_174ff834905898967bb62e1e06bb9c42" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="9"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ac7a4c211a94db7c5ded9869f1842e24" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_53a8d58ec0a38f5454b3d89e549c86f4" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_9d1d75c1920fb8af6f0aa9a11f4ea019" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_5f1950ce0f3bfe94e683ccb4ebde3d1e" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_2ca57d36fd223bdada82e8aff8c72afb" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_6aca9b49cfa80109f7b26e2f114fc773" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="12"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_6aca9b49cfa80109f7b26e2f114fc773" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ad605792ed5b03232964908df43c51cf" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_b5f99d9a132a4140c407c275a174de11" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_3f7a6c39f51730c36273a73d5ef904f4" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_c6611287f7782f77902f4f6837ea9391" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ee5807c150254b4a3c8175d495416a55" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ee5807c150254b4a3c8175d495416a55" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="5"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ee5807c150254b4a3c8175d495416a55" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_3c595e9e85d15bd305fa7300c7b8e754" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_d1a1566128a9750f39d3359835b93c82" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ab0fa67d00c1678c012bf259755fa8f8" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_068ae1a49da1becaf7decee5dfc03ad1" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_063ad98b1425387796eef428c1cf6f08" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_675243fc56c26cb0685265257f1d1b88" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_845c7dae27408b4c1097893d67604705" target="openaccess_c315aa6fe8fcac931fcd6dbb5d2b346c" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_f1065f9f167e9c8ebd213df45ebe06f9" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_cbe0623751a7e73047171cb815059b52" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_2b8152e261a92e042f185f7ba27e126d" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_75e73efa61e7716dcefe15b8558ce964" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_b642df14dc221b165422f95b752b0d6c" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_b642df14dc221b165422f95b752b0d6c" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_cb8b01d4f6144ded65eb5f1887de663d" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_7cea086d088b9312e6ee53c6bb787875" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_3a350a1492e4710045bece4c0f122aed" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_37200988da267c255a7d3c150a594a67" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_3357623aeea8bac9ec06424c6f5f5d19" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_e0f11605b3a8545a3f68802d6612572d" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_e93fcadb7ab2b48840fc30aabd97e85d" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_e93fcadb7ab2b48840fc30aabd97e85d" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_a71ab9573ba679f16f83d31871ae9c0b" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="25"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_2eef36798d065b9fe812b9966fcce315" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_da6f2dbf5f148a803d19723f4e5b2f54" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_53a73d7995567fc145947782d000eaa5" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ef34db3fe5d662376e9267d7314dcef9" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_496e8ea618cc8338dc1808dc16033764" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_78a45c7d04e556fcc8ce2ef74f60d6e3" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_5e40abca4d3d1ebd3027e705caac5a6d" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_935d9808d59880671508c5b2a517166f" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_6a95ec93276a9c19389d5c7aaa649b17" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_067b753cd763f2757509849b410b259b" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_e8b0bd5227a147fb532c6f7a84ad8d43" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_eeebe705d9bbabe0317c60cd22fa9722" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_eeebe705d9bbabe0317c60cd22fa9722" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="6"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_8f1058c20c6e6d559f8574ec26b3d54c" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ec071351ed40f3fc3f9d42c24e7692cf" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_c3ad24cb1e6cb8e7e6588fb90b685310" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_aee68bb0f4807e28711a6dfe7be3eaec" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_0fefb9759451c3f0cd9aeb84fca32109" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_0f8a8a99a2a5398f12b227ef59bb9f5a" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_74f83ac95c5ec04781da28496298ce6b" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_d9e5d212320e7d96e921831554be696d" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_e103bb2b8ac5e84a8ca12bd93ca10d64" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_f56daaffcb2e25f49e5c2b9a1c9d7709" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_0581374a58c7d2c01dd5f983dbe716e7" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_dc2076ebc1e74db81452054f24184902" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_81267b28a5bb487b409ab1bb444423d4" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_371f67623b9ea67adedd51d51471070e" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_371f67623b9ea67adedd51d51471070e" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_7490ec89bba50e7931d602b7457e5af8" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ba871f90e4d742422445d064cd0505e8" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_00d2e21d0f51785452f2c71069fd6def" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ea141856e0b665778f3b290f84932b37" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_d0d709c394beb1e97e390dac1aa9c925" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_be6bd9e833f18585bcd2b100619f35ed" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_be6bd9e833f18585bcd2b100619f35ed" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_826c25277b678db0d06b36db59ee52e0" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_7e634d0ec21e89b9bb4a31639301bad8" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_7e634d0ec21e89b9bb4a31639301bad8" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="16"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_7e634d0ec21e89b9bb4a31639301bad8" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="297"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_98285211ba3c39491116cb8e63cd0aee" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_f4def6a80fca0e9c08d38c1e569b80ed" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_2a33e8841bac132ef71503fbe032465d" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ad5828512f5c6470b76c6fd503a16af0" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_cdb3993d2bbba5022f230b3a834210dc" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_a0974e7c481ea8327da06e41d561912f" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_59238b4e1186ac8cf887b82fbece0c6f" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_dd61676a1f9431f4cb294774d0dd6403" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_dd61676a1f9431f4cb294774d0dd6403" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_176d1370ffc8f0328c990729c8bb9a08" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="3"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_176d1370ffc8f0328c990729c8bb9a08" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="7"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_67cb701dd02c03352feac57578484c0f" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="2"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_759a81e31b3016874b3b62514ac94798" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_f8536fd7497902ea36840b9a4b275a24" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_2b5b6dfa0c03f6b186b8b9f14409e0c2" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_eae24411a3ee374e11c578d8e9beae1d" target="openaccess_c315aa6fe8fcac931fcd6dbb5d2b346c" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_d382347b265f2906015b9bcdeb5b3d49" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="6"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_8866d4a31b900240059f417df4e41653" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="11"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_6435e1113aae5198fd1ffd1e4e8f3be7" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_eb196fd74b4e42809eb0484c84efef63" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_5175e6d88ba424ed2ba660816f5ac9b2" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_304027d55d4cbcce4486954d2c947288" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_d385287509d79b5d5163df9097dcca39" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_08bf1dc52d26fb408ff0684357be2244" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="7"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_08bf1dc52d26fb408ff0684357be2244" target="openaccess_47e1d5760f84fd772b059379b12e7cee" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_8c1a8dce5437756a3740e18dbc4b5d7f" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_9d50dd65d1860ddddcca7f8aa713f39c" target="openaccess_b7ca474257e82700091821f451d8b86a" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_b2f9a2c85b21cbc7d45753a7156b1b9e" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_b2f9a2c85b21cbc7d45753a7156b1b9e" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="41"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_22bbe95a57dfe90078dea5af214c0b0a" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_fc183a33afc5953f3adbe9d629a45b44" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_47f752301fb6ff0e3037ad6c1217374b" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="4"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_eadc47696aec450ff91030a1240a989c" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_40ad9609d240431ba7f0b9665d882a34" target="openaccess_3b2f1b21238495a49bd1b506cc9b0c6f" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_827e559026e08a91ae39281028bfc62e" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_ff346f7a9f39f78cf755c31eb9b2c406" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_7cae0364cc1b15df35056488657cbee9" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_9f9d8304007afb7f4ca39db16cb0ec35" target="openaccess_ab3514103464340178b2ad5e1e3623f5" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_4e006d5abe17cc8298acd8cb4c12d902" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_6da791d3fb8c7c24de119436afa9395b" target="openaccess_e754866d0e704bae66ef456a0e7b15e2" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_6025614c1441f167037492a78cb8daeb" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="sourcetitle_e2f8125feaf22536381cebcab8dc7202" target="openaccess_61d6f4976189912911c8b6c12ce33317" >
+<attvalues>
+<attvalue for="matchings_count" value="5"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+</edges>
+</graph></gexf>
